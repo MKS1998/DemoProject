@@ -1,0 +1,59 @@
+starting commands
+1.
+mkdir Terminal-Commands
+
+2.
+pwd
+
+3.
+ls(List Command)
+
+4.
+cd Terminal-Commands
+
+5.
+git config --global user.name "user-name"
+
+6.
+git config --global user.email pwd
+
+7.
+touch
+
+8.
+rm --help
+
+9.
+rm filename
+rm -r dirname
+
+nano
+nano fruit.txt
+
+ctrl+s
+to save a file
+
+ctrl + o   for open 
+
+to exit nano editor
+ctrl+x
+rm 
+rn
+
+cat filename
+cat filename
+nano filename -l
+
+ cat linux-content/access.log 
+
+head -4 filename : for getting first  word from list
+
+tail -4 filename : for getting last word from list
+
+env
+grep pattern
+
+grep pattern nameoffile
+
+------------------------------------------------------------------------------------
+ when I run the cat access.log command it shows this directory not created
